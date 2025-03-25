@@ -6,7 +6,7 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
-Name: Peter Tan Kee Lin
+Name: Peter Tan Kee Lin <br>
 Project-Name:MyWebProject
 
 # Introduction to GitHub
